@@ -1,6 +1,6 @@
 # Hi there, I'm Quyet Trinh Van! 👋
 
-**AI Engineer @AIDC Corp.**
+**Solution Architect @AIDC Corp.**
 
 ---
 
@@ -29,45 +29,46 @@ Driven by a deep passion for AI and a strong willingness to learn, I actively pu
 ## 🌐 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/quy%E1%BA%BFt-tr%E1%BB%8Bnh-7158b22ba/)
-- [Personal Website](https://quyettv1302.pythonanywhere.com/)
 
 ---
 
 ## 📊 GitHub Statistics
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Quyet-TrinhVan&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Quyet-TrinhVan&theme=tokyonight"/>
-
+  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Quyet-TrinhVan&show_icons=true&theme=tokyonight" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Quyet-TrinhVan&theme=tokyonight" />
 </p>
 
 ---
 
-## 📈 Top Languages
+## 💻 Core Tech Stack
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Quyet-TrinhVan&layout=compact&theme=tokyonight"/>
-
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
 </p>
 
 ---
 
-## 🏆 GitHub Achievements
+## 🧠 Areas of Interest
 
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Quyet-TrinhVan&theme=algolia&margin-w=10&row=1&column=6"/>
-
-</p>
+- Machine Learning
+- Deep Learning
+- Computer Vision
+- Transfer Learning
+- AI Research & Applications
 
 ---
 
-## 📊 Contribution Activity
+## 📌 Featured Focus
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Quyet-TrinhVan&theme=tokyo-night)
+- Building practical AI solutions for real-world problems
+- Exploring computer vision applications in intelligent systems
+- Improving model performance through transfer learning
+- Delivering end-to-end ML projects from training to evaluation
 
 ---
 
