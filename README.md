@@ -72,4 +72,9 @@ Driven by a deep passion for AI and a strong willingness to learn, I actively pu
 
 ---
 
+## 📊 Contribution Activity
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Quyet-TrinhVan&theme=tokyo-night)
+
+---
 > “Stay hungry, stay foolish.” – Steve Jobs
