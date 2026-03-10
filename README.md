@@ -33,10 +33,17 @@ Driven by a deep passion for AI and a strong willingness to learn, I actively pu
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Statistics
 
-![Quyet-TrinhVan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Quyet-TrinhVan&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Quyet-TrinhVan&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Quyet-TrinhVan&show_icons=true&theme=tokyonight&cache_seconds=86400)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Quyet-TrinhVan&theme=tokyonight)
+
+---
+
+## 🏆 GitHub Achievements
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Quyet-TrinhVan&theme=algolia&margin-w=10)
 
 ---
 
