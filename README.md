@@ -1,6 +1,6 @@
 # Hi there, I'm Quyet Trinh Van! 👋
 
-**AI Engineer @ Viettel Software**
+**AI Engineer @AIDC Corp.**
 
 ---
 
@@ -35,15 +35,39 @@ Driven by a deep passion for AI and a strong willingness to learn, I actively pu
 
 ## 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Quyet-TrinhVan&show_icons=true&theme=tokyonight&cache_seconds=86400)
+<p align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Quyet-TrinhVan&theme=tokyonight)
+<img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Quyet-TrinhVan&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Quyet-TrinhVan&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 📈 Top Languages
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Quyet-TrinhVan&layout=compact&theme=tokyonight"/>
+
+</p>
 
 ---
 
 ## 🏆 GitHub Achievements
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Quyet-TrinhVan&theme=algolia&margin-w=10)
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Quyet-TrinhVan&theme=algolia&margin-w=10&row=1&column=6"/>
+
+</p>
+
+---
+
+## 📊 Contribution Activity
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Quyet-TrinhVan&theme=tokyo-night)
 
 ---
 
